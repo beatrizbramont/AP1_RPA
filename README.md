@@ -17,4 +17,4 @@ lista de tarefas de um arquivo, interpretar essas tarefas e executá-las de form
 automática, simulando ações que um usuário realizaria no computador — como
 clicar em ícones, digitar textos, pressionar teclas e esperar alguns segundos.
 
-Teste 1
+Teste 2
